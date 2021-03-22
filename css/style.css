@@ -4,6 +4,7 @@
 }
 body{
     background-color: #d0d9dd;
+    overflow-x: hidden;
 }
 .footertop{
     background-image: url("../img/home.png");
